@@ -8,7 +8,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # Menulis judul
-st.markdown("<h1 style='text-align: center; '> Model Regresi </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '> Galih Febrianto </h1>", unsafe_allow_html=True)
 st.markdown('---'*10)
 
 
@@ -63,3 +63,4 @@ def main():
            
 if __name__ == '__main__':
 	main() 
+
